@@ -1,0 +1,11 @@
+# Core dependencies for Textile Pattern Matching System
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.36.0
+pillow>=10.0.0
+matplotlib>=3.7.2
+tqdm>=4.66.1
+jupyter>=1.0.0
+notebook>=7.0.0
+numpy>=1.24.3
+huggingface-hub>=0.20.0

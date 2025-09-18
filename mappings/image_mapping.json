@@ -1,0 +1,161 @@
+{
+  "images": {
+    "new_dataset_case.jpeg": {
+      "id": "textile_001",
+      "original_name": "new_dataset_case.jpeg",
+      "added_date": "2025-09-18T14:42:55.266705",
+      "file_size": 296662
+    },
+    "textile_001.jpeg": {
+      "id": "textile_002",
+      "original_name": "textile_001.jpeg",
+      "added_date": "2025-09-18T14:42:55.267315",
+      "file_size": 944422
+    },
+    "textile_002.jpeg": {
+      "id": "textile_003",
+      "original_name": "textile_002.jpeg",
+      "added_date": "2025-09-18T14:42:55.272147",
+      "file_size": 916966
+    },
+    "textile_003.jpeg": {
+      "id": "textile_004",
+      "original_name": "textile_003.jpeg",
+      "added_date": "2025-09-18T14:42:55.272863",
+      "file_size": 979986
+    },
+    "textile_004.jpeg": {
+      "id": "textile_005",
+      "original_name": "textile_004.jpeg",
+      "added_date": "2025-09-18T14:42:55.273551",
+      "file_size": 1052149
+    },
+    "textile_005.jpeg": {
+      "id": "textile_006",
+      "original_name": "textile_005.jpeg",
+      "added_date": "2025-09-18T14:42:55.274222",
+      "file_size": 815477
+    },
+    "textile_006.jpeg": {
+      "id": "textile_007",
+      "original_name": "textile_006.jpeg",
+      "added_date": "2025-09-18T14:42:55.274898",
+      "file_size": 947300
+    },
+    "textile_007.jpeg": {
+      "id": "textile_008",
+      "original_name": "textile_007.jpeg",
+      "added_date": "2025-09-18T14:42:55.275581",
+      "file_size": 852192
+    },
+    "textile_008.jpeg": {
+      "id": "textile_009",
+      "original_name": "textile_008.jpeg",
+      "added_date": "2025-09-18T14:42:55.276326",
+      "file_size": 898906
+    },
+    "textile_009.jpeg": {
+      "id": "textile_010",
+      "original_name": "textile_009.jpeg",
+      "added_date": "2025-09-18T14:42:55.277052",
+      "file_size": 258840
+    },
+    "textile_010.jpeg": {
+      "id": "textile_011",
+      "original_name": "textile_010.jpeg",
+      "added_date": "2025-09-18T14:42:55.277769",
+      "file_size": 311588
+    },
+    "textile_011.jpeg": {
+      "id": "textile_012",
+      "original_name": "textile_011.jpeg",
+      "added_date": "2025-09-18T14:42:55.278507",
+      "file_size": 255093
+    },
+    "textile_012.jpeg": {
+      "id": "textile_013",
+      "original_name": "textile_012.jpeg",
+      "added_date": "2025-09-18T14:42:55.279296",
+      "file_size": 311214
+    },
+    "textile_013.jpeg": {
+      "id": "textile_014",
+      "original_name": "textile_013.jpeg",
+      "added_date": "2025-09-18T14:42:55.280112",
+      "file_size": 261116
+    },
+    "textile_014.jpeg": {
+      "id": "textile_015",
+      "original_name": "textile_014.jpeg",
+      "added_date": "2025-09-18T14:42:55.281560",
+      "file_size": 323688
+    },
+    "textile_015.jpeg": {
+      "id": "textile_016",
+      "original_name": "textile_015.jpeg",
+      "added_date": "2025-09-18T14:42:55.282467",
+      "file_size": 968088
+    },
+    "textile_016.jpeg": {
+      "id": "textile_017",
+      "original_name": "textile_016.jpeg",
+      "added_date": "2025-09-18T14:42:55.283198",
+      "file_size": 343302
+    },
+    "textile_017.jpeg": {
+      "id": "textile_018",
+      "original_name": "textile_017.jpeg",
+      "added_date": "2025-09-18T14:42:55.283746",
+      "file_size": 1037689
+    },
+    "textile_018.jpeg": {
+      "id": "textile_019",
+      "original_name": "textile_018.jpeg",
+      "added_date": "2025-09-18T14:42:55.284320",
+      "file_size": 919544
+    },
+    "textile_019.jpeg": {
+      "id": "textile_020",
+      "original_name": "textile_019.jpeg",
+      "added_date": "2025-09-18T14:42:55.284908",
+      "file_size": 748097
+    },
+    "textile_020.jpeg": {
+      "id": "textile_021",
+      "original_name": "textile_020.jpeg",
+      "added_date": "2025-09-18T14:42:55.285480",
+      "file_size": 1381756
+    },
+    "textile_021.jpeg": {
+      "id": "textile_022",
+      "original_name": "textile_021.jpeg",
+      "added_date": "2025-09-18T14:42:55.286123",
+      "file_size": 915769
+    },
+    "textile_022.jpeg": {
+      "id": "textile_023",
+      "original_name": "textile_022.jpeg",
+      "added_date": "2025-09-18T14:42:55.286718",
+      "file_size": 802267
+    },
+    "textile_023.jpeg": {
+      "id": "textile_024",
+      "original_name": "textile_023.jpeg",
+      "added_date": "2025-09-18T14:42:55.287510",
+      "file_size": 828692
+    },
+    "textile_024.jpeg": {
+      "id": "textile_025",
+      "original_name": "textile_024.jpeg",
+      "added_date": "2025-09-18T14:42:55.288194",
+      "file_size": 968706
+    },
+    "textile_025.jpeg": {
+      "id": "textile_026",
+      "original_name": "textile_025.jpeg",
+      "added_date": "2025-09-18T14:42:55.288880",
+      "file_size": 350599
+    }
+  },
+  "next_id": 27
+}

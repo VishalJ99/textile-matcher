@@ -1,0 +1,83 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Environment files
+.env
+*.env
+
+# Model files (large)
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# Embeddings (can be regenerated - large files)
+embeddings_tta/*.pkl
+embeddings_tta/*.pt
+embeddings_tta/*.npy
+embeddings/*.pkl
+embeddings/*.pt
+embeddings/*.npy
+
+# Reference images - keep sample images, ignore new additions
+# (Comment out these lines if you want to track all images)
+# source_images/*.jpg
+# source_images/*.jpeg
+# source_images/*.png
+# source_images/*.bmp
+# source_images/*.tiff
+
+# Old reference directory (deprecated)
+reference_db/
+
+# Query images - keep sample queries
+# queries/*.jpg
+# queries/*.jpeg
+# queries/*.png
+# queries/*.bmp
+
+# Mapping files (keep for reference)
+# mappings/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+tmp/
+temp/
+
+# HuggingFace cache (large)
+.cache/
+huggingface/
+
+# Keep directory structure
+!source_images/.gitkeep
+!embeddings_tta/.gitkeep
+!mappings/.gitkeep
+!queries/.gitkeep
