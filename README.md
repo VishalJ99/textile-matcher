@@ -185,7 +185,7 @@ rotations = [0, 45, 90, 135, 180, 225, 270, 315]  # More angles
 ### Change Embedding Model
 ```python
 # Use smaller model for faster processing
-MODEL_NAME = "facebook/dinov3-base"  # If available
+MODEL_NAME = "facebook/dinov3-vit7b16-pretrain-lvd1689m"  # If available
 ```
 
 ### Modify Similarity Metric
